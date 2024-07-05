@@ -11,8 +11,13 @@ Requirements
     
 Installation
     1.Compile the main.cpp file:
+    
       g++ -c main.cpp
+      
     2.Link the compiled file with the SFML libraries:
+    
       g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+      
     3.Run the application:
+    
       ./sfml-app
