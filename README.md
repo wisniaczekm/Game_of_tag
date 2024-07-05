@@ -10,6 +10,7 @@ Requirements
     SFML
     
 Installation
+
     1.Compile the main.cpp file:
     
       g++ -c main.cpp
